@@ -8,17 +8,18 @@ AI/ML enthusiast with over **2 years of experience** in developing and deploying
 ## 🛠️ Skills
 
 ### Programming & Databases
-- **Languages:** Python, R, SQL, T-SQL, NoSQL, HTML  
-- **Databases:** MySQL, PostgreSQL, MongoDB, Neo4j, Snowflake, Redshift, SAS, SPSS  
-- **Cloud Platforms:** AWS (S3, EC2, SageMaker), Azure (Data Factory, Synapse, Blob Storage), GCP  
+- **Languages:** Python, R, SQL, T-SQL, NoSQL, 
+- **Databases:** MySQL, PostgreSQL, MongoDB, Neo4j, Snowflake
+- **Cloud Platforms:** AWS (S3, SageMaker), Azure (Data Factory, Synapse, Blob Storage, Databricks), GCP  
 
 ### AI/ML Expertise
-- **Machine Learning:** CNN, RNN, GNN, LSTM, GAN, Transformers (BERT, GPT), Reinforcement Learning, NLP, Stable Diffusion  
+- **Machine Learning:** CNN, RNN, GNN, LSTM, GAN, VAE, Stable Diffusion, Transformers (BERT, GPT), NLP, Reinforcement Learning, Large Language Models (LLMs), LoRa, Hugging Face, FAISS, Recommendation System
+ 
 - **Frameworks & Libraries:** Pandas, NumPy, TensorFlow, PyTorch, Keras, PySpark, Sci-Kit Learn, SciPy, Statsmodels, BeautifulSoup, Plotly  
-- **Visualization:** Tableau, Power BI, Matplotlib, Seaborn, Looker, Qlik, ArcGIS  
+- **Visualization:** Tableau, Power BI, Matplotlib, Seaborn, Looker, Qlik, ArcGIS, , MS Excel (VBA, Macros, Pivot Tables, Vlookup)
 
 ### Big Data & Tools
-- Hadoop, Spark, Kafka, Docker, Kubernetes, MLflow, Git, Airflow, Talend, Informatica  
+- Hadoop, Spark, Kafka, Docker, Kubernetes, MLflow, Git, Airflow, Informatica  
 
 ### Statistical Analysis
 - Hypothesis Testing, Z-Test, T-Test, Chi-Squared Test, A/B Testing  
@@ -51,30 +52,26 @@ AI/ML enthusiast with over **2 years of experience** in developing and deploying
 
 ---
 
-## 💼 Work Experience
+💼 Work Experience
 
 ### **Tata Consultancy Services (Software Engineer)**
-- Designed and implemented Python and SQL-based workflows to streamline vehicle sales analysis, reducing report generation time by **60%** through automated data validation and centralized ETL processes, enabling twice-weekly sales trend updates.  
-- Built interactive Tableau dashboards tracking key automotive metrics, including vehicle model performance, regional sales variations, and dealer inventory levels, accessed by 200+ stakeholders.  
-- Developed ETL pipelines in Azure Data Factory to integrate supply chain data from multiple vendors and warehouses, improving parts inventory forecasting accuracy by **20%** and reducing stockout incidents.  
-- Leveraged Azure Databricks to analyze 1M+ customer survey responses, identifying key satisfaction drivers and creating predictive models for customer churn prevention with **85% accuracy**.  
-- Created advanced SQL queries to monitor parts supply chain efficiency, generating automated alerts for potential delays and bottlenecks across 100+ suppliers.  
-- Collaborated with Sales, Supply Chain, and Customer Experience teams to build centralized reporting in Azure Synapse Analytics, consolidating data from CRM, ERP, and dealer management systems for comprehensive business intelligence.
+- Developed Python and SQL-based workflows for sales and supply chain data analysis, reducing report generation time.
+- Built interactive dashboards and ETL pipelines in **Azure**, improving forecasting accuracy by **20%** and reducing stockouts.
+- Leveraged **Databricks** and **SQL** for customer churn prediction and supply chain efficiency monitoring.
 
 ### **Auraworx (Data Analyst)**
-- Performed **data collection, data cleaning, and preprocessing** on large customer datasets using Python and SQL to ensure accuracy and consistency for reliable analysis.  
-- Conducted exploratory data analysis (EDA) to identify key purchasing patterns and customer segments, discovering a **25% higher retention rate** among loyalty program members.  
-- Developed interactive Power BI dashboards to visualize customer segmentation findings, enabling stakeholders to track Key Performance Indicators and leading to a targeted marketing campaign that increased customer engagement by **30%**.  
+- Conducted data collection, preprocessing, and exploratory analysis to uncover customer retention patterns and improve segmentation.
+- Created dashboards in **Power BI**, driving a **30% increase in engagement** through targeted marketing insights.
 
 ---
 
 ## 📚 Education
 
 **San Jose State University**  
-*Master of Science in Data Analytics* (Aug 2023 - May 2025)  
+*Master of Science in Applied Data Science* (Aug 2023 - May 2025)  
 
-**Osmania University**  
-*Bachelor of Technology in Computer Science Engineering*  
+**Jawaharlal Nehru Technological University Hyderabad**  
+*Bachelor of Technology in Electronics and Communication Engineering*  
 
 ---
 
